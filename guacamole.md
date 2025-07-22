@@ -2,8 +2,6 @@
 ## Ingredients
 ## Instructions
 * avocado
-* strawberries
 * lime
-* sugar
 * salt
 ## Instructions
